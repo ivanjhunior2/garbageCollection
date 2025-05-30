@@ -4,5 +4,5 @@ pillow
 matplotlib
 numpy
 scikit-learn
-opencv-python
+opencv-python-headless
 pandas
