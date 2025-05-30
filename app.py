@@ -47,8 +47,11 @@ if "history" not in st.session_state:
 st.sidebar.image("plane.png", width=150)
 st.sidebar.title("🌍 Iniciativa Ambiental")
 st.sidebar.markdown("""
-Este clasificador ayuda a separar residuos reciclables en el aeropuerto.
-¡Gracias por contribuir al planeta!
+La propuesta plantea el uso de un sistema inteligente de clasificación de residuos en aeropuerto. 
+La idea es que este dispositivo, ubicado en puntos estratégicos como zonas de control o revisión de equipaje,
+pueda escanear automáticamente objetos desechados y clasificarlos correctamente. Esto no solo optimizaría la 
+separación de residuos en un entorno de alto tránsito, sino que también contribuiría a mantener la limpieza y 
+fomentar el reciclaje desde un enfoque automatizado y eficiente
 """)
 st.sidebar.title("👥 Equipo del Proyecto")
 st.sidebar.markdown("""
